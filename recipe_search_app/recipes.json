@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2,
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter",
+      "tomato"
+    ],
+    "instructions": "Butter the bread, place cheese and tomato between slices, and grill."
+  },
+  {
+    "id": 4,
+    "name": "cauliflower",
+    "ingredients": [
+      "masala",
+      "water",
+      "tomato",
+      "potato"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "butter",
+      "baking powder"
+    ],
+    "instructions": "Mix all ingredients into a batter and cook on a griddle."
+  }
+]
